@@ -1,4 +1,4 @@
-package item1;
+package item1.staticfactory;
 
 /**
  * Item 1: Consider static factory methods instead of constructors
